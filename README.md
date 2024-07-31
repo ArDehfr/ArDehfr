@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋, I'm Malik Arifin, a passionate web developer currently balancing my studies and my love for coding...</h2>
 <br>
+<hr>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
