@@ -1,4 +1,6 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/1764c01d-9724-42b2-8d06-94371bc94717)
+<div align="center>
+![github-header-image (2)](https://github.com/user-attachments/assets/44dabd67-280d-4bde-9b93-42a5a38dc9ef)
+</div>
 
 <hr>
 
