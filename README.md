@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋, I'm Malik Arifin, a passionate web developer currently balancing my studies and my love for coding...</h2>
 ![github-header-image](https://github.com/user-attachments/assets/bfa91446-45cb-4239-b4e4-80ceb68e6662)
 <hr>
 <div align="center">
