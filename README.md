@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Malik Arifin, a passionate web developer currently balancing my studies and my love for coding...</h2>
-![Header](./github-header-image.png)![github-header-image](https://github.com/user-attachments/assets/f195b567-8c38-4a22-bbd3-af1dbe372f1f)
+![github-header-image](https://github.com/user-attachments/assets/f195b567-8c38-4a22-bbd3-af1dbe372f1f)
 
 <hr>
 <div align="center">
