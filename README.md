@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/a88e4bfd-c8e5-4504-a7f9-500a6e935e18" >
 </div>
 
-![money](https://github.com/user-attachments/assets/062b17e5-7d6b-4738-be47-d936f4bb3ad7)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/11773f6b-e94c-447d-a2be-0936d2da9066" >
+</div>
 
 <hr>
 
