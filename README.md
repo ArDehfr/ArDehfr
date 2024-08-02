@@ -1,6 +1,4 @@
-<div align="center>
 ![github-header-image (2)](https://github.com/user-attachments/assets/44dabd67-280d-4bde-9b93-42a5a38dc9ef)
-</div>
 
 <hr>
 
