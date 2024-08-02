@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Malik Arifin, a passionate web developer currently balancing my studies and my love for coding...</h2>
-![Header](https://github.com/user-attachments/assets/f195b567-8c38-4a22-bbd3-af1dbe372f1f)
-
+![github-header-image](https://github.com/user-attachments/assets/bfa91446-45cb-4239-b4e4-80ceb68e6662)
 <hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
