@@ -1,5 +1,7 @@
-![github-header-image](https://github.com/user-attachments/assets/bfa91446-45cb-4239-b4e4-80ceb68e6662)
+![github-header-image (1)](https://github.com/user-attachments/assets/1764c01d-9724-42b2-8d06-94371bc94717)
+
 <hr>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
