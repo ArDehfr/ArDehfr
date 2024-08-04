@@ -65,12 +65,12 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardehfr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardehfr&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&langs_count=5&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardehfr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardehfr&locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&langs_count=5&hide_border=false" height="150" alt="languages graph" />
 </div>
 <br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ardehfr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=ardehfr&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 <div align="center">
   <img src="const.svg" />
