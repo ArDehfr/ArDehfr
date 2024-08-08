@@ -72,7 +72,7 @@
   <img src="https://streak-stats.demolab.com?user=ardehfr&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ardehfr&border_radius=5px&theme=dark&bg_color=0e1117&border_color=1e1e1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Playtime%20Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ardehfr&border_radius=5px&theme=dark&bg_color=0e1117&border_color=1e1e1f&icon_color=58a6ff&show_icons=true&disable_animations=false&height="220"&custom_title=Playtime%20Stats">
 </div>  
 <div align="center">
   <img src="const.svg" />
