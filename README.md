@@ -65,7 +65,7 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardehfr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ardehfr&hide=html,scss,css&langs_count=8&layout=compact&theme=vision-friendly-dark&card_width=150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardehfr&locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&langs_count=5&hide_border=false" height="150" alt="languages graph" />
 </div>
 <div align="center">
