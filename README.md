@@ -72,11 +72,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ardehfr&border_radius=5px&theme=dark&bg_color=0e1117&border_color=1e1e1f&icon_color=58a6ff&show_icons=true&disable_animations=false&height="220"&custom_title=Playtime%20Stats">
 </div>  
-
+<br>
 <div align=center>
-  
+<hr/>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ifvfh7p2hco0gobhntht5an89&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1ab&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<hr/>
 </div>
 
 <div align="center">
