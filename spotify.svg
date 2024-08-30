@@ -64,7 +64,7 @@
                     bottom: 1px;
                     height: 3px;
                     position: absolute;
-                    background: #00EA04cc;
+                    background: #227B94;
                     animation: sound 0ms -800ms linear infinite alternate;
                 }
                 
@@ -105,10 +105,10 @@
 
                 <div class="content">
                     <a href="https://open.spotify.com/track/3GqcOFF4HpwnL1OIpxBXi9" target="_blank">
-                        <div class="song">Не верю</div>
+                        <div class="song">Bloody Mary</div>
                     </a>
                     <a href="https://open.spotify.com/artist/0v3cIqT5jtOSGxotzz8kcZ" target="_blank">
-                        <div class="artist">Amirchik</div>
+                        <div class="artist">Lady Gaga</div>
                     </a>
                     <div id="bars"><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div></div>
                     <!-- <a href="https://open.spotify.com/track/3GqcOFF4HpwnL1OIpxBXi9" class="spotify-logo">
