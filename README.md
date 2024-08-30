@@ -3,9 +3,6 @@
 </div>
 <hr>
 
-![ab67616d0000b273a47c0e156ea3cebe37fdcab8](https://github.com/user-attachments/assets/83b07f52-bd1d-41f0-93a5-7f48dd34c029)
-
-
 ![WhatsApp Image 2024-08-21 at 08 42 50_59893710](https://github.com/user-attachments/assets/bcc09ac7-0448-4b8f-bb20-56c836d399d8)
 
 <hr>
