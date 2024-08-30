@@ -76,7 +76,7 @@
 <div align=center>
 <hr/>
 
-[![Spotify](https://github.com/ArDehfr/ArDehfr/blob/main/assets/banners/spotify.svg)](https://open.spotify.com/playlist/5K8y7cfCOTFw33lGtSIGy3)
+[![Spotify](https://github.com/ArDehfr/ArDehfr/blob/main/spotify.svg)](https://open.spotify.com/playlist/5K8y7cfCOTFw33lGtSIGy3)
 
 <hr/>
 </div>
