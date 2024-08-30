@@ -76,7 +76,7 @@
 <div align=center>
 <hr/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ifvfh7p2hco0gobhntht5an89&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1ab&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://github.com/ArDehfr/ArDehfr/blob/main/assets/banners/spotify.svg)](https://open.spotify.com/playlist/5K8y7cfCOTFw33lGtSIGy3)
 
 <hr/>
 </div>
