@@ -3,7 +3,7 @@
 </div>
 <hr>
 
-<img src="![ab67616d0000b273a47c0e156ea3cebe37fdcab8](https://github.com/user-attachments/assets/e96a14f5-75f0-4e62-b5f0-60cdb272cb9e)
+<img src="https://github.com/user-attachments/assets/e96a14f5-75f0-4e62-b5f0-60cdb272cb9e
 " >
 
 ![WhatsApp Image 2024-08-21 at 08 42 50_59893710](https://github.com/user-attachments/assets/bcc09ac7-0448-4b8f-bb20-56c836d399d8)
