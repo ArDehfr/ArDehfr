@@ -73,13 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ardehfr&border_radius=5px&theme=dark&bg_color=0e1117&border_color=1e1e1f&icon_color=58a6ff&show_icons=true&disable_animations=false&height="220"&custom_title=Playtime%20Stats">
 </div>  
 <br>
-<div align=center>
-<hr/>
-
-[![Spotify](https://github.com/ArDehfr/ArDehfr/blob/main/spotify.svg)](https://open.spotify.com/playlist/5K8y7cfCOTFw33lGtSIGy3)
-
-<hr/>
-</div>
 
 <div align="center">
   <img src="const.svg" />
