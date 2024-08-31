@@ -97,13 +97,7 @@
             <!-- <div class="current_status">Was playing:</div> -->
 
             <div class="main">
-                <a class="art" href="{}" target="_blank">
-                    <center>
-
-                        <img src="assets/ab67616d0000b273a47c0e156ea3cebe37fdcab8.jpeg" >
-                        
-                    </center>
-                </a>
+                
 
                 <div class="content">
                     <a href="https://open.spotify.com/track/3GqcOFF4HpwnL1OIpxBXi9" target="_blank">
